@@ -42,7 +42,7 @@ function App() {
     
     // Formular zurücksetzen
     setJoggen(''); setFahrrad(''); setErgo(''); setKraft(''); setGewicht('');
-    alert("Daten erfolgreich gespeichert!");
+    alert("Daten erfolgreich gespeichert! :)");
   };
 
   // Vormonat ermitteln für den Vergleich
